@@ -2,6 +2,8 @@
 
 Este projeto é um sistema simples para calcular a média das notas dos alunos e determinar se foram aprovados ou reprovados. Os resultados são exibidos em uma tabela dinâmica na página.
 
+link: https://media-alunos-m61p8rad7-elias-nery-limas-projects.vercel.app
+
 ## 🚀 Funcionalidades
 - Entrada de notas por matéria para cada aluno.
 - Cálculo automático da média das notas.
